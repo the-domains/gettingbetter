@@ -1,0 +1,28 @@
+name: gettingbetter
+favicon: null
+layout_spectrum: 0.3661308891605586
+typography_spectrum: 0.35214761877432466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22701135906390846
+  lightness: 0.9971177333500236
+  saturation: 0.06552869500592351
+  rhythmicContrast: 0.6222913232631981
+purpose: []
